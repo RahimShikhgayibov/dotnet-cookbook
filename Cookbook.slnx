@@ -3,4 +3,7 @@
     <Project Path="src/Cookbook.Api/Cookbook.Api.csproj" />
     <Project Path="src/Cookbook.BuildingBlocks/Cookbook.BuildingBlocks.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Cookbook.Tests/Cookbook.Tests.csproj" />
+  </Folder>
 </Solution>

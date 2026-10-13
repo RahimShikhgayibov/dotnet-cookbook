@@ -11,4 +11,8 @@
     <PackageReference Include="Microsoft.OpenApi" Version="2.7.5" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Cookbook.BuildingBlocks\Cookbook.BuildingBlocks.csproj" />
+  </ItemGroup>
+
 </Project>
