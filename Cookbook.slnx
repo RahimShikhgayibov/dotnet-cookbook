@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/src/">
+    <Project Path="src/Cookbook.Api/Cookbook.Api.csproj" />
     <Project Path="src/Cookbook.BuildingBlocks/Cookbook.BuildingBlocks.csproj" />
   </Folder>
 </Solution>
